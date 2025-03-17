@@ -1,0 +1,15 @@
+D:\Jeya\CRUD\CrudOperationApi.Application\obj\Debug\net8.0\CrudOperationApi.Application.csproj.AssemblyReference.cache
+D:\Jeya\CRUD\CrudOperationApi.Application\obj\Debug\net8.0\CrudOperationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeya\CRUD\CrudOperationApi.Application\obj\Debug\net8.0\CrudOperationApi.Application.AssemblyInfoInputs.cache
+D:\Jeya\CRUD\CrudOperationApi.Application\obj\Debug\net8.0\CrudOperationApi.Application.AssemblyInfo.cs
+D:\Jeya\CRUD\CrudOperationApi.Application\obj\Debug\net8.0\CrudOperationApi.Application.csproj.CoreCompileInputs.cache
+D:\Jeya\CRUD\CrudOperationApi.Application\bin\Debug\net8.0\CrudOperationApi.Application.deps.json
+D:\Jeya\CRUD\CrudOperationApi.Application\bin\Debug\net8.0\CrudOperationApi.Application.dll
+D:\Jeya\CRUD\CrudOperationApi.Application\bin\Debug\net8.0\CrudOperationApi.Application.pdb
+D:\Jeya\CRUD\CrudOperationApi.Application\bin\Debug\net8.0\CrudOperationApi.Domain.dll
+D:\Jeya\CRUD\CrudOperationApi.Application\bin\Debug\net8.0\CrudOperationApi.Domain.pdb
+D:\Jeya\CRUD\CrudOperationApi.Application\obj\Debug\net8.0\CrudOper.FD1DE24E.Up2Date
+D:\Jeya\CRUD\CrudOperationApi.Application\obj\Debug\net8.0\CrudOperationApi.Application.dll
+D:\Jeya\CRUD\CrudOperationApi.Application\obj\Debug\net8.0\refint\CrudOperationApi.Application.dll
+D:\Jeya\CRUD\CrudOperationApi.Application\obj\Debug\net8.0\CrudOperationApi.Application.pdb
+D:\Jeya\CRUD\CrudOperationApi.Application\obj\Debug\net8.0\ref\CrudOperationApi.Application.dll

@@ -1,0 +1,17 @@
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\bin\Debug\net8.0\CrudOperationApi.Infrastructure.deps.json
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\bin\Debug\net8.0\CrudOperationApi.Infrastructure.runtimeconfig.json
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\bin\Debug\net8.0\CrudOperationApi.Infrastructure.dll
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\bin\Debug\net8.0\CrudOperationApi.Infrastructure.pdb
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\bin\Debug\net8.0\CrudOperationApi.Domain.dll
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\bin\Debug\net8.0\CrudOperationApi.Domain.pdb
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\CrudOperationApi.Infrastructure.csproj.AssemblyReference.cache
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\CrudOperationApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\CrudOperationApi.Infrastructure.AssemblyInfoInputs.cache
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\CrudOperationApi.Infrastructure.AssemblyInfo.cs
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\CrudOperationApi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\CrudOper.DC1A8D21.Up2Date
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\CrudOperationApi.Infrastructure.dll
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\refint\CrudOperationApi.Infrastructure.dll
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\CrudOperationApi.Infrastructure.pdb
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\CrudOperationApi.Infrastructure.genruntimeconfig.cache
+D:\Jeya\CRUD\CrudOperationApi.Infrastructure\obj\Debug\net8.0\ref\CrudOperationApi.Infrastructure.dll

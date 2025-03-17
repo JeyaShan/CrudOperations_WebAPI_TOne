@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jeya\\CRUD\\CrudOperationApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3F34-007B-4ED7-9465-D606AD25649D}|CrudOperationApi.csproj|d:\\jeya\\crud\\crudoperationapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3F34-007B-4ED7-9465-D606AD25649D}|CrudOperationApi.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C065C41-DE67-4028-859E-5E39A68C9E9F}|..\\CrudOperationApi.Application\\CrudOperationApi.Application.csproj|d:\\jeya\\crud\\crudoperationapi.application\\dtos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C065C41-DE67-4028-859E-5E39A68C9E9F}|..\\CrudOperationApi.Application\\CrudOperationApi.Application.csproj|d:\\jeya\\crud\\crudoperationapi.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7801E8F4-1B71-488A-B774-BE6FAD2A7393}|..\\CrudOperationApi.Infrastructure\\CrudOperationApi.Infrastructure.csproj|d:\\jeya\\crud\\crudoperationapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E965B0E-2584-4453-9BB7-1C19EC494EB1}|..\\CrudOperationApi.Domain\\CrudOperationApi.Domain.csproj|d:\\jeya\\crud\\crudoperationapi.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E965B0E-2584-4453-9BB7-1C19EC494EB1}|..\\CrudOperationApi.Domain\\CrudOperationApi.Domain.csproj|d:\\jeya\\crud\\crudoperationapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7801E8F4-1B71-488A-B774-BE6FAD2A7393}|..\\CrudOperationApi.Infrastructure\\CrudOperationApi.Infrastructure.csproj|d:\\jeya\\crud\\crudoperationapi.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7801E8F4-1B71-488A-B774-BE6FAD2A7393}|..\\CrudOperationApi.Infrastructure\\CrudOperationApi.Infrastructure.csproj|d:\\jeya\\crud\\crudoperationapi.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3F34-007B-4ED7-9465-D606AD25649D}|CrudOperationApi.csproj|d:\\jeya\\crud\\crudoperationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CACF3F34-007B-4ED7-9465-D606AD25649D}|CrudOperationApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3F34-007B-4ED7-9465-D606AD25649D}|CrudOperationApi.csproj|d:\\jeya\\crud\\crudoperationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3F34-007B-4ED7-9465-D606AD25649D}|CrudOperationApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3F34-007B-4ED7-9465-D606AD25649D}|CrudOperationApi.csproj|d:\\jeya\\crud\\crudoperationapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3F34-007B-4ED7-9465-D606AD25649D}|CrudOperationApi.csproj|solutionrelative:dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C065C41-DE67-4028-859E-5E39A68C9E9F}|..\\CrudOperationApi.Application\\CrudOperationApi.Application.csproj|d:\\jeya\\crud\\crudoperationapi.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3F34-007B-4ED7-9465-D606AD25649D}|CrudOperationApi.csproj|d:\\jeya\\crud\\crudoperationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CACF3F34-007B-4ED7-9465-D606AD25649D}|CrudOperationApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E965B0E-2584-4453-9BB7-1C19EC494EB1}|..\\CrudOperationApi.Domain\\CrudOperationApi.Domain.csproj|d:\\jeya\\crud\\crudoperationapi.domain\\common\\queryparameters\\productqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C065C41-DE67-4028-859E-5E39A68C9E9F}|..\\CrudOperationApi.Application\\CrudOperationApi.Application.csproj|d:\\jeya\\crud\\crudoperationapi.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationApi.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\CrudOperationApi.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:01:22.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationApi.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "..\\CrudOperationApi.Infrastructure\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:14:03.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T17:57:19.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationApi.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\CrudOperationApi.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:10:40.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationApi.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "..\\CrudOperationApi.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T03:23:16.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\CrudOperationApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:49:10.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationApi.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\CrudOperationApi.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:38:39.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi.Application\\DTOs\\Product.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationApi.Application\\DTOs\\Product.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi.Application\\DTOs\\Product.cs",
+              "RelativeToolTip": "..\\CrudOperationApi.Application\\DTOs\\Product.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T03:16:31.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:40:27.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:01:13.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DependencyInjection.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi\\DependencyInjection.cs",
+              "RelativeToolTip": "DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:06:46.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationApi.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\CrudOperationApi.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:02:41.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T08:47:33.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationApi.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "..\\CrudOperationApi.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:36:06.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductQueryParameters.cs",
+              "DocumentMoniker": "D:\\Jeya\\CRUD\\CrudOperationApi.Domain\\Common\\QueryParameters\\ProductQueryParameters.cs",
+              "RelativeDocumentMoniker": "..\\CrudOperationApi.Domain\\Common\\QueryParameters\\ProductQueryParameters.cs",
+              "ToolTip": "D:\\Jeya\\CRUD\\CrudOperationApi.Domain\\Common\\QueryParameters\\ProductQueryParameters.cs",
+              "RelativeToolTip": "..\\CrudOperationApi.Domain\\Common\\QueryParameters\\ProductQueryParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:03:28.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

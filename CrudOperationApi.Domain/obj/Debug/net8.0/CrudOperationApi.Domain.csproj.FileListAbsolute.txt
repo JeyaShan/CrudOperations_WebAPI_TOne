@@ -1,0 +1,11 @@
+D:\Jeya\CRUD\CrudOperationApi.Domain\bin\Debug\net8.0\CrudOperationApi.Domain.deps.json
+D:\Jeya\CRUD\CrudOperationApi.Domain\bin\Debug\net8.0\CrudOperationApi.Domain.dll
+D:\Jeya\CRUD\CrudOperationApi.Domain\bin\Debug\net8.0\CrudOperationApi.Domain.pdb
+D:\Jeya\CRUD\CrudOperationApi.Domain\obj\Debug\net8.0\CrudOperationApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeya\CRUD\CrudOperationApi.Domain\obj\Debug\net8.0\CrudOperationApi.Domain.AssemblyInfoInputs.cache
+D:\Jeya\CRUD\CrudOperationApi.Domain\obj\Debug\net8.0\CrudOperationApi.Domain.AssemblyInfo.cs
+D:\Jeya\CRUD\CrudOperationApi.Domain\obj\Debug\net8.0\CrudOperationApi.Domain.csproj.CoreCompileInputs.cache
+D:\Jeya\CRUD\CrudOperationApi.Domain\obj\Debug\net8.0\CrudOperationApi.Domain.dll
+D:\Jeya\CRUD\CrudOperationApi.Domain\obj\Debug\net8.0\refint\CrudOperationApi.Domain.dll
+D:\Jeya\CRUD\CrudOperationApi.Domain\obj\Debug\net8.0\CrudOperationApi.Domain.pdb
+D:\Jeya\CRUD\CrudOperationApi.Domain\obj\Debug\net8.0\ref\CrudOperationApi.Domain.dll
